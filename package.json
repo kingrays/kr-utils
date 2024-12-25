@@ -1,0 +1,23 @@
+{
+    "name": "kr-utils",
+    "version": "0.0.1",
+    "description": "A simple math package to perform basic operations",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kingrays/kr-utils.git"
+    },
+    "keywords": [
+        "math",
+        "addition"
+    ],
+    "author": "King Ray",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/kingrays/kr-utils/issues"
+    },
+    "homepage": "https://github.com/kingrays/kr-utils#readme"
+}
